@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisEAArias.
-- 👀 I’m interested in Progamation.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning C#, SQL, HTML.
 - 💞️ I’m looking to collaborate on Git Hub.
 
 <!---
